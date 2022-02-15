@@ -1,2 +1,5 @@
 # A-BUTEGHINNA
-site web du restaurant familial
+Bonjour,
+
+A l'occasion de la création de ce site web, pour notre restaurant familiale.
+il y aura deux versions différentes, une utilisant boostrap et l'autre tailwind css.

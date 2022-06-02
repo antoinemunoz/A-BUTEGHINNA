@@ -632,6 +632,10 @@ book-a-table-btn
   }
 }
 
+.histoire {
+  font-size: 20px;
+}
+
 .breadcrumbs h2 {
   font-size: 26px;
   font-weight: 300;
@@ -939,6 +943,17 @@ book-a-table-btn
     border: 0;
     padding: 15px;
   }
+}
+
+
+
+/*
+# Emporté
+*/
+
+#emporte {
+  background: #1a1917;
+  padding: 100px 0;
 }
 
 /*
